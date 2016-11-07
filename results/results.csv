@@ -1,0 +1,14 @@
+matchid,me,you,won,yourDead,myDead
+battle-randombattle-1,testbot221,larandumb,true,6,5
+matchid,me,you,won,yourDead,myDead
+battle-randombattle-1,larandumb,testbot221,false,5,6
+battle-randombattle-3,larandumb,testbot221,true,6,5
+battle-randombattle-3,testbot221,larandumb,false,5,6
+battle-randombattle-4,larandumb,testbot221,true,6,4
+battle-randombattle-4,testbot221,larandumb,false,4,6
+battle-randombattle-5,larandumb,testbot221,true,6,2
+battle-randombattle-5,testbot221,larandumb,false,2,6
+battle-randombattle-6,larandumb,testbot221,false,4,6
+battle-randombattle-6,testbot221,larandumb,true,6,4
+battle-randombattle-7,larandumb,testbot221,false,5,6
+battle-randombattle-7,testbot221,larandumb,true,6,5
