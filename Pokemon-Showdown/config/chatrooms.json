@@ -1,8 +1,0 @@
-[
-{"title":"Lobby","isOfficial":true,"autojoin":true,"introMessage":"Welcome to cyberdyne!<br><br><u>Important Links</u><br>Project homepage: <a href=\"https://github.com/dramamine/leftovers-again\">Github - Leftovers Again</a><br><br><u>Featured Bots</u><br>Meet the Fakers [ou]: FakeOut based bot.<br>LA-Fitness [randombattle]: This bot beat God once. <a href=\"https://github.com/dramamine/la-fitness\">Github - LA-Fitness</a>"},
-{"title":"Staff","isPrivate":true,"staffRoom":true,"staffAutojoin":true,"introMessage":"Welcome to cyberdyne!<br><br><u>Important Links</u><br>Project homepage: <a href=\"https://github.com/dramamine/leftovers-again\">Github - Leftovers Again</a><br><br><u>Featured Bots</u><br>Meet the Fakers [ou]: FakeOut based bot.<br>LA-Fitness [randombattle]: This bot beat God once. <a href=\"https://github.com/dramamine/la-fitness\">Github - LA-Fitness</a>"},
-{"title":"randombattle","isOfficial":true},
-{"title":"ou","isOfficial":true},
-{"title":"ubers","isOfficial":true},
-{"title":"anythinggoes","isOfficial":true}
-]
