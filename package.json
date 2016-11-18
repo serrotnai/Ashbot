@@ -1,5 +1,5 @@
 {
-  "name": "Ashbot",
+  "name": "Ashbot221",
   "version": "0.0.0",
   "description": "I wanna be a real bot.",
   "dependencies": {
@@ -26,5 +26,5 @@
   },
   "format": "randombattle",
   "accepts": "ALL",
-  "nickname": "Ashbot"
+  "nickname": "Ashbot221"
 }
