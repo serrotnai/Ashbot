@@ -1,5 +1,5 @@
 /**
- * TestBot221
+ * Ashbot
  *
  */
 import { MOVE, SWITCH } from 'leftovers-again/lib/decisions';
@@ -8,7 +8,7 @@ import { MOVE, SWITCH } from 'leftovers-again/lib/decisions';
  * Your code is pre-built with a very simple bot that chooses a team, then
  * picks randomly from valid moves on its turn.
  */
-class TestBot221 {
+class Ashbot {
 
 
   /**
@@ -48,4 +48,4 @@ class TestBot221 {
   }
 }
 
-export default TestBot221;
+export default Ashbot;

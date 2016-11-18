@@ -1,2 +1,0 @@
-# Ashbot
-Test message.
